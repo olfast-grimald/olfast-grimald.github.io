@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 
-import Name from "./Name"
-import About from "./About"
-import Projects from "./Projects"
-import data from "./data"
+import Name from "./Components/Name"
+import About from "./Components/About"
+import Projects from "./Components/Projects"
+import data from "./Data/data"
 
 function App() {
   
